@@ -20,7 +20,10 @@ Code by https://github.com/daveshap/
 ## Changing Personality
 
 To edit the personality, change the two prompts in the prompt_response.txt file.
+
 Making the prompt to long or detailed may lead to a breakdown of conversation later.
 To help avoid this, I suggest telling Athena to research conversation structure and flow. Then tell Athena to implement what she learned about conversations in every future interaction. If you plan on teaching it specific emotions, have Athena define them with leading questions before teaching it conversation structure.
+
 After teaching Athena converation structure, next is to teach it when to use emotions. Have it define when an emotion should be shown with leading questions, have it provide allegories to any situation it gives to help increase its understanding.
+
 If Athena is ever repeating itself to much, tell it to stop. Non repetition training is highly important in the initial conversations.
