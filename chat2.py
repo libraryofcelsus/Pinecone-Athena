@@ -84,7 +84,7 @@ def load_conversation(results):
 
 
 if __name__ == '__main__':
-    convo_length = 30
+    convo_length = 25
     openai.api_key = open_file('key_openai.txt')
     pinecone.init(api_key=open_file('key_pinecone.txt'), environment='us-east1-gcp')
     vdb = pinecone.Index("athena")
