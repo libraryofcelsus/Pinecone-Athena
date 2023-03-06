@@ -7,10 +7,10 @@ Code by https://github.com/daveshap/
 
 1. Install Git
 2. Install Python 3.10.6, Make sure you add it to PATH
-3. Run git clone: "git clone https://github.com/libraryofcelsus/Pinecone-Athena/"
-4. Create a virtual environment: "python3 -m venv env"
-5. Activate the environment: ".\env\Scripts\activate"
-6. Install the required packages: "pip install openai numpy pinecone-client"
+3. Run git clone: **git clone https://github.com/libraryofcelsus/Pinecone-Athena/**
+4. Create a virtual environment: **python3 -m venv env**
+5. Activate the environment: **.\env\Scripts\activate**
+6. Install the required packages: **pip install openai numpy pinecone-client**
 7. Copy your OpenAI api key to key_openai and your Pinecone api key to key_pinecone
 8. Create a Index on Pinecone titled: "athena" with 1536 dimensions and cosine as the metric. I usually do a P1 instance.
 9. Run chat.py with Python 3.10.6
