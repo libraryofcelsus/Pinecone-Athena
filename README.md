@@ -12,7 +12,7 @@ Code by https://github.com/daveshap/
 5. Activate the environment: **.\env\Scripts\activate**
 6. Install the required packages: **pip install openai numpy pinecone-client**
 7. Copy your OpenAI api key to key_openai and your Pinecone api key to key_pinecone
-8. Create a Index on Pinecone titled: "athena" with 1536 dimensions and cosine as the metric. I usually do a P1 instance.
+8. Create a Index on pinecone.io titled: "athena" with 1536 dimensions and cosine as the metric. I usually do a P1 instance.
 9. Run chat.py with Python 3.10.6
 10. Teach Athena by asking leading questions, remember this is nothing but a text completion engine with a script on top of it. Keep this in mind when having your initial conversations, as these will be Athena's first memories.
 11. Please don't date the Ai.
