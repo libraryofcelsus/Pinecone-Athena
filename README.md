@@ -7,7 +7,7 @@ Code by https://github.com/daveshap/
 
 1. Install Git
 2. Install Python 3.10.6, Make sure you add it to PATH
-3. Run git clone: "git clone ____"
+3. Run git clone: "git clone https://github.com/libraryofcelsus/Pinecone-Athena/"
 4. Create a virtual environment: "python3 -m venv env"
 5. Activate the environment: ".\env\Scripts\activate"
 6. Install the required packages: "pip install openai numpy pinecone-client"
