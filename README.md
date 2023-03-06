@@ -3,7 +3,8 @@ Let's use Pinecone to make a realistic Personal Assistant with INFINITE MEMORY
 
 Code by https://github.com/daveshap/
 
-#Windows Installation
+Windows Installation
+
 1. Install Git
 2. Install Python 3.10.6, Make sure you add it to PATH
 3. Run git clone: "git clone ____"
@@ -16,7 +17,8 @@ Code by https://github.com/daveshap/
 10. Teach Athena by asking leading questions, remember this is nothing but a text completion engine with a script on top of it. Keep this in mind when having your initial conversations, as these will be Athena's first memories.
 11. Please don't date the Ai.
 
-#Changing Personality
+Changing Personality
+
 To edit the personality, change the two prompts in the prompt_response.txt file.
 Making the prompt to long or detailed may lead to a breakdown of conversation later.
 To help avoid this, I suggest telling Athena to research conversation structure and flow. Then tell Athena to implement what she learned about conversations in every future interaction. If you plan on teaching it specific emotions, have Athena define them with leading questions before teaching it conversation structure.
