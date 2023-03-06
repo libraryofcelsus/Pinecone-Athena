@@ -27,3 +27,5 @@ To help avoid this, I suggest telling Athena to research conversation structure 
 After teaching Athena converation structure, next is to teach it when to use emotions. Have it define when an emotion should be shown with leading questions, have it provide allegories to any situation it gives to help increase its understanding.
 
 If Athena is ever repeating itself to much, tell it to stop. Non repetition training is highly important in the initial conversations.
+
+Name can be changed by replacing all references to Athena in the chat2.py and prompt_response.txt with the desired name.
